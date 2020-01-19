@@ -3,8 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.flysnow.org/tags/123/</loc>
+    <lastmod>2020-01-19T21:33:55+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.flysnow.org/categories/321/</loc>
+    <lastmod>2020-01-19T21:33:55+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.flysnow.org/categories/</loc>
-    <lastmod>2019-12-18T21:55:00+08:00</lastmod>
+    <lastmod>2020-01-19T21:33:55+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.flysnow.org/post/first/</loc>
+    <lastmod>2020-01-19T21:33:55+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.flysnow.org/post/</loc>
+    <lastmod>2020-01-19T21:33:55+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.flysnow.org/tags/</loc>
+    <lastmod>2020-01-19T21:33:55+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.flysnow.org/</loc>
+    <lastmod>2020-01-19T21:33:55+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -20,25 +55,7 @@
   </url>
   
   <url>
-    <loc>https://www.flysnow.org/post/</loc>
-    <lastmod>2019-12-18T21:55:00+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.flysnow.org/tags/</loc>
-    <lastmod>2019-12-18T21:55:00+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.flysnow.org/tags/golang/</loc>
-    <lastmod>2019-12-18T21:55:00+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.flysnow.org/</loc>
     <lastmod>2019-12-18T21:55:00+08:00</lastmod>
     <priority>0</priority>
   </url>
